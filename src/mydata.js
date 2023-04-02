@@ -1,19 +1,15 @@
 const mydata = [
   {
-    name: "Bhargav",
-    subscribedChannel: "Code Eater",
+    name: "Jeread Krus",
+    subscribedChannel: "CNET",
   },
   {
-    name: "Pawan",
+    name: "John Doe",
     subscribedChannel: "freeCodeCamp.org",
   },
   {
-    name: "Anil",
-    subscribedChannel: "TechGun",
-  },
-  {
-    name: "Sateesh",
-    subscribedChannel: "CodeWithHarry",
+    name: "Lucifer",
+    subscribedChannel: "Sentex",
   },
 ];
 

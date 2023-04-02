@@ -12,7 +12,7 @@ app.use(express.json());
 
 
 // Connect to DATABASE
-const dbUrl = process.env.dbURL ;
+const dbUrl = process.env.dbURL;
 mongoose
   .connect(dbUrl, { useNewUrlParser: true, useUnifiedTopology: true })
   .then((result) => {
